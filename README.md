@@ -757,7 +757,7 @@ For more information, please visit [Getting Started on Heroku with Node.js](http
 ### Digital Ocean
 <img src="https://www.digitalocean.com/assets/images/logos-badges/png/DO_Logo_Vertical_Blue-2c654e19.png" width="200">
 
-TODO
+- The beginnings of something great with digital ocean plug in.
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
